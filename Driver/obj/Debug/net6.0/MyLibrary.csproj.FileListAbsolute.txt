@@ -1,0 +1,36 @@
+C:\Users\aligr\Desktop\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\aligr\Desktop\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligr\Desktop\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\aligr\Desktop\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.AssemblyInfo.cs
+C:\Users\aligr\Desktop\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aligr\Desktop\Web_HW_1\MYRIDE\Driver\bin\Debug\net6.0\MyLibrary.deps.json
+C:\Users\aligr\Desktop\Web_HW_1\MYRIDE\Driver\bin\Debug\net6.0\MyLibrary.dll
+C:\Users\aligr\Desktop\Web_HW_1\MYRIDE\Driver\bin\Debug\net6.0\MyLibrary.pdb
+C:\Users\aligr\Desktop\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.dll
+C:\Users\aligr\Desktop\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\refint\MyLibrary.dll
+C:\Users\aligr\Desktop\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.pdb
+C:\Users\aligr\Desktop\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\ref\MyLibrary.dll
+C:\Users\aligr\Desktop\study\Web Engineering\Assignments\Web_HW_1\MYRIDE\Driver\bin\Debug\net6.0\MyLibrary.deps.json
+C:\Users\aligr\Desktop\study\Web Engineering\Assignments\Web_HW_1\MYRIDE\Driver\bin\Debug\net6.0\MyLibrary.dll
+C:\Users\aligr\Desktop\study\Web Engineering\Assignments\Web_HW_1\MYRIDE\Driver\bin\Debug\net6.0\MyLibrary.pdb
+C:\Users\aligr\Desktop\study\Web Engineering\Assignments\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\aligr\Desktop\study\Web Engineering\Assignments\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligr\Desktop\study\Web Engineering\Assignments\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\aligr\Desktop\study\Web Engineering\Assignments\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.AssemblyInfo.cs
+C:\Users\aligr\Desktop\study\Web Engineering\Assignments\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aligr\Desktop\study\Web Engineering\Assignments\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.dll
+C:\Users\aligr\Desktop\study\Web Engineering\Assignments\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\refint\MyLibrary.dll
+C:\Users\aligr\Desktop\study\Web Engineering\Assignments\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.pdb
+C:\Users\aligr\Desktop\study\Web Engineering\Assignments\Web_HW_1\MYRIDE\Driver\obj\Debug\net6.0\ref\MyLibrary.dll
+C:\Users\aligr\OneDrive\Desktop\Study\Web\Assignments\3\Web_HW_2\MYRIDE\Driver\bin\Debug\net6.0\MyLibrary.deps.json
+C:\Users\aligr\OneDrive\Desktop\Study\Web\Assignments\3\Web_HW_2\MYRIDE\Driver\bin\Debug\net6.0\MyLibrary.dll
+C:\Users\aligr\OneDrive\Desktop\Study\Web\Assignments\3\Web_HW_2\MYRIDE\Driver\bin\Debug\net6.0\MyLibrary.pdb
+C:\Users\aligr\OneDrive\Desktop\Study\Web\Assignments\3\Web_HW_2\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\aligr\OneDrive\Desktop\Study\Web\Assignments\3\Web_HW_2\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligr\OneDrive\Desktop\Study\Web\Assignments\3\Web_HW_2\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\aligr\OneDrive\Desktop\Study\Web\Assignments\3\Web_HW_2\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.AssemblyInfo.cs
+C:\Users\aligr\OneDrive\Desktop\Study\Web\Assignments\3\Web_HW_2\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aligr\OneDrive\Desktop\Study\Web\Assignments\3\Web_HW_2\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.dll
+C:\Users\aligr\OneDrive\Desktop\Study\Web\Assignments\3\Web_HW_2\MYRIDE\Driver\obj\Debug\net6.0\refint\MyLibrary.dll
+C:\Users\aligr\OneDrive\Desktop\Study\Web\Assignments\3\Web_HW_2\MYRIDE\Driver\obj\Debug\net6.0\MyLibrary.pdb
+C:\Users\aligr\OneDrive\Desktop\Study\Web\Assignments\3\Web_HW_2\MYRIDE\Driver\obj\Debug\net6.0\ref\MyLibrary.dll
